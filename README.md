@@ -1,1 +1,1 @@
-A quck overview of my journey in machine learning
+A quick overview of my journey in machine learning
